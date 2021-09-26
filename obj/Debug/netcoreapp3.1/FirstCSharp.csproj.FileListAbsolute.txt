@@ -1,0 +1,13 @@
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\firstcsharp\bin\Debug\netcoreapp3.1\FirstCSharp.exe
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\firstcsharp\bin\Debug\netcoreapp3.1\FirstCSharp.deps.json
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\firstcsharp\bin\Debug\netcoreapp3.1\FirstCSharp.runtimeconfig.json
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\firstcsharp\bin\Debug\netcoreapp3.1\FirstCSharp.runtimeconfig.dev.json
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\firstcsharp\bin\Debug\netcoreapp3.1\FirstCSharp.dll
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\firstcsharp\bin\Debug\netcoreapp3.1\FirstCSharp.pdb
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\firstcsharp\obj\Debug\netcoreapp3.1\FirstCSharp.csprojAssemblyReference.cache
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\firstcsharp\obj\Debug\netcoreapp3.1\FirstCSharp.AssemblyInfoInputs.cache
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\firstcsharp\obj\Debug\netcoreapp3.1\FirstCSharp.AssemblyInfo.cs
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\firstcsharp\obj\Debug\netcoreapp3.1\FirstCSharp.csproj.CoreCompileInputs.cache
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\firstcsharp\obj\Debug\netcoreapp3.1\FirstCSharp.dll
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\firstcsharp\obj\Debug\netcoreapp3.1\FirstCSharp.pdb
+C:\Users\todda\OneDrive\Documents\CodingDojo\C#\firstcsharp\obj\Debug\netcoreapp3.1\FirstCSharp.genruntimeconfig.cache
